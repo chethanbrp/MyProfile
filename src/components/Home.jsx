@@ -29,7 +29,7 @@ function Home() {
               {/* <span >Developer</span> */}
               <ReactTyped
                 className="text-red-700 font-bold"
-                strings={["Developer", "Programmer", "Coder"]}
+                strings={["DevOps Engineer", "AWS Architect", "AWS Specialist"]}
                 typeSpeed={40}
                 backSpeed={50}
                 loop={true}
@@ -37,11 +37,12 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              Results-driven Cloud Engineer with over 1 year of experience in designing,
+	  implementing, and maintaining scalable infrastructure and CI/CD pipelines. 
+	  Proficient in cloud technologies, configuration management, containerization, 
+	  and automation tools. Seeking a challenging role to leverage my expertise in 
+	  optimizing deployment processes, enhancing system performance, monitoring, and 
+	  driving continuous integration and delivery.
             </p>
             <br />
             {/* social media icons */}
