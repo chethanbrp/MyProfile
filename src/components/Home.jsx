@@ -23,7 +23,7 @@ function Home() {
       >
         <div className="flex flex-col md:flex-row">
           <div className="md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1">
-            <span className="text-xl">Welcome In My Feed</span>
+            <span className="text-xl">Welcome In My Portfolio</span>
             <div className="flex space-x-1 text-2xl md:text-4xl">
               <h1>Hello, I'm a</h1>
               {/* <span >Developer</span> */}
@@ -37,7 +37,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Results-driven Cloud Engineer with over 1 year of experience in designing,
+              Results-driven Cloud Engineer with over 3 year of experience in designing,
 	  implementing, and maintaining scalable infrastructure and CI/CD pipelines. 
 	  Proficient in cloud technologies, configuration management, containerization, 
 	  and automation tools. Seeking a challenging role to leverage my expertise in 
@@ -60,12 +60,7 @@ function Home() {
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
-                  //<li>
-                    //<a href="https://www.youtube.com/" target="_blank">
-                      //<IoLogoYoutube className="text-2xl cursor-pointer" />
-                    //</a>
-                  //</li>
-                </ul>
+            </ul>
               </div>
               <div className=" space-y-2">
                 <h1 className="font-bold text-center">Currently working on</h1>
