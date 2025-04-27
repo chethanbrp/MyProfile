@@ -65,11 +65,6 @@ function Home() {
                       //<IoLogoYoutube className="text-2xl cursor-pointer" />
                     //</a>
                   //</li>
-                 // <li>
-                   // <a href="https://t.me/" target="_blank">
-                   //   <FaTelegram className="text-2xl cursor-pointer" />
-                   // </a>
-                  //</li>
                 </ul>
               </div>
               <div className=" space-y-2">
