@@ -9,8 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
+          Hello, I'm Chethan B R, a passionate AWS and DevOps Engineer, With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
@@ -18,7 +17,9 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
+          1. Completed Bachelors in Malnad Collage of Engineering, Hassan, Karnataka.
+	  2. 
+	  [Bachelor of Engineer], [Malnad COllage of Engineering], [2020] [Degree/Certification],
           [Institution], [Year] [Relevant Course], [Platform/Institution],
           [Year]
         </span>
