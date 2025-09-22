@@ -1,4 +1,4 @@
-import React from "react";
+OPimport React from "react";
 
 import pic from "../../public/photo.avif";
 
@@ -37,7 +37,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Results-driven Cloud Engineer with over 3 year of experience in designing,
+              Results-driven Cloud and DevOps Engineer with over 3 year of experience in designing,
 	  implementing, and maintaining scalable infrastructure and CI/CD pipelines. 
 	  Proficient in cloud technologies, configuration management, containerization, 
 	  and automation tools. Seeking a challenging role to leverage my expertise in 
@@ -52,7 +52,7 @@ function Home() {
                 <ul className="flex space-x-5">
                   <li>
                     <a href="https://github.com/chethanbrp" target="_blank">
-                      <FaSquareFacebook className="text-2xl cursor-pointer" />
+                      <FaGitHub className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
