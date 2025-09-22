@@ -52,7 +52,7 @@ function Home() {
                 <ul className="flex space-x-5">
                   <li>
                     <a href="https://github.com/chethanbrp" target="_blank">
-                      <FaGitHub className="text-2xl cursor-pointer" />
+                      < className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
