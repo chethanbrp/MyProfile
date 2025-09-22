@@ -50,12 +50,7 @@ function Home() {
               <div className="  space-y-2">
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
-                  <li>
-                    <a href="https://github.com/chethanbrp" target="_blank">
-                      < className="text-2xl cursor-pointer" />
-                    </a>
-                  </li>
-                  <li>
+				  <li>
                     <a href="https://www.linkedin.com/in/chethanbrp" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
